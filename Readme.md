@@ -2,8 +2,8 @@
 
 
 <p>In 19.1 we've implemented two new options that specify how our Find Panel works:</p>
-<p>1) <a href="http://newdoc.devexpress.devx/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnViewOptionsFind.ParserKind?v=19.1"><u>ParserKind</u></a>  - If a search string contains whitespaces, the control splits it into separate logical blocks. This option specifies how these blocks are combined into a search query.</p>
-<p>2) <a href="http://newdoc.devexpress.devx/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnViewOptionsFind.Condition?v=19.1"><u>Filter Condition</u></a> - Use the Condition property to specify the search operator (Contains, StartsWith, Equals, Like).</p>
+<p>1) <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnViewOptionsFind.ParserKind"><u>ParserKind</u></a>  - If a search string contains whitespaces, the control splits it into separate logical blocks. This option specifies how these blocks are combined into a search query.</p>
+<p>2) <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Base.ColumnViewOptionsFind.Condition"><u>Filter Condition</u></a> - Use the Condition property to specify the search operator (Contains, StartsWith, Equals, Like).</p>
 <p>So starting with 19.1 you can use these options to manage the Find Panel behavior without using descendants. 
 In case of using SearchLookUpEdit you can find these options in the SearchLookUpEdit.Properties.PopupView.OptionsFind section.</p>
 
