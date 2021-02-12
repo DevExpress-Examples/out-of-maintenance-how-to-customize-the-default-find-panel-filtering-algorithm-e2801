@@ -9,6 +9,9 @@ In case of using SearchLookUpEdit you can find these options in the SearchLookUp
 
 <p>See also:</p>
 <p><a href="https://community.devexpress.com/blogs/winforms/archive/2019/03/20/winforms-data-grid-new-find-panel-options-v19-1-ctp.aspx?CommentPosted=true"><u>WinForms - Data Grid - New Find Panel Options</u></a></p>
+
+[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
+
 <br/>
 
 
